@@ -34,6 +34,7 @@ button:active {
 
 .flat:hover,
 .flat:active {
-  background-color: #ddcad5;
+  background-color: #cad9dd;
+  border-radius: 10px;
 }
 </style>
